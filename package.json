@@ -1,0 +1,28 @@
+{
+  "name": "RestaurantTestAutomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhtung2282/RestaurantTestAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhtung2282/RestaurantTestAutomation/issues"
+  },
+  "homepage": "https://github.com/thanhtung2282/RestaurantTestAutomation#readme",
+  "devDependencies": {
+    "@types/node": "^10.5.2",
+    "@types/webdriverio": "^4.10.3",
+    "chai": "^4.1.2",
+    "wdio-mocha-framework": "^0.6.2",
+    "wdio-selenium-standalone-service": "0.0.10",
+    "webdriverio": "^4.13.1"
+  }
+}

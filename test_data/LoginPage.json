@@ -1,0 +1,18 @@
+{
+    "correctCredential":{
+        "email":"tungnguyenthanh357@gmail.com",
+        "password":"123456"
+    },
+    "incorrectWithValidEmail":{
+        "email":"tungnguyenthanh",
+        "password":"123456"
+    },
+    "incorrectWithValidPassword":{
+        "email":"tungnguyenthanh357@gmail.com",
+        "password":"123"
+    },
+    "incorrectCredential":{
+        "email":"tungnguyenthanh@gmail.com",
+        "password":"1234567"
+    }
+}

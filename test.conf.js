@@ -4,7 +4,7 @@ exports.config={
        
     ],
     suites:{
-        
+        signin:['./test_scripts/Login/LoginForm.js']
     },
     host:'localhost',
     port:9515,
